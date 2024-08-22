@@ -6,13 +6,6 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="Fun GIF" width="140"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" width="830"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🔭 **Currently focused on**: Python programming, machine learning, and neural networks.
