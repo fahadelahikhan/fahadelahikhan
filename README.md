@@ -37,12 +37,12 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-  <img height="130em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
