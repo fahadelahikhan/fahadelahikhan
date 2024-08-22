@@ -37,7 +37,7 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <div align="center">
