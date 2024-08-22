@@ -42,7 +42,7 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 </div>
 <div align="center">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img height="70em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
