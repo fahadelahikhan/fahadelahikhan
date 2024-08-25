@@ -52,7 +52,7 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 
 ---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
 
 <!--   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
