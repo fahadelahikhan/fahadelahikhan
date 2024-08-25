@@ -2,7 +2,7 @@
 
 I am a passionate BSc Mechanical Engineering student at Chittagong University of Engineering and Technology. I have a deep curiosity for technology, particularly in machine learning, control systems, and neural networks. My journey involves exploring these fields, innovating new ideas, and sharing my insights with the community.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=blueviolet)
 
 ---
 
