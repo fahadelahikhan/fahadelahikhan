@@ -2,7 +2,7 @@
 
 I am a passionate BSc Mechanical Engineering student at Chittagong University of Engineering and Technology. I have a deep curiosity for technology, particularly in machine learning, control systems, and neural networks. My journey involves exploring these fields, innovating new ideas, and sharing my insights with the community.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&color=cyan)
+![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&color=green)
 
 ---
 
@@ -37,10 +37,10 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=midnight-purple&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -53,3 +53,11 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 ---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+<!--   
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+   -->
+
