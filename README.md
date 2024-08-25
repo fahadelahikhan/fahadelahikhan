@@ -2,7 +2,7 @@
 
 I am a passionate BSc Mechanical Engineering student at Chittagong University of Engineering and Technology. I have a deep curiosity for technology, particularly in machine learning, control systems, and neural networks. My journey involves exploring these fields, innovating new ideas, and sharing my insights with the community.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&color=magenta)
+![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&color=yellow)
 
 ---
 
@@ -12,7 +12,6 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 - 🌱 **Exploring**: The application of machine learning in control systems.
 - 💞️ **Collaborate with me on**: Python-based projects related to control systems.
 - 📫 **Reach me via**: GitHub messages or [LinkedIn](https://www.linkedin.com/in/fahadelahikhan/).
-- <a href="https://www.linkedin.com/in/fahadelahikhan/" target="_blank">Connect with me on LinkedIn</a>
 
 ---
 
