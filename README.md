@@ -37,10 +37,10 @@ I am a passionate BSc Mechanical Engineering student at Chittagong University of
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
-  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=midnight-purple&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=ff00ff&rank_icon=github&number_format=short" alt="GitHub Stats" />
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+    <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
+    <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=midnight-purple&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
