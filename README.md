@@ -60,4 +60,3 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
   <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
    -->
-
