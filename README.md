@@ -1,62 +1,54 @@
-# Hi, I'm Fahad Elahi Khan! 👋
+# Fahad Elahi Khan | Mechanical Engineering & Computational Innovation 🚀
 
-I am a passionate BSc Mechanical Engineering student at Chittagong University of Engineering and Technology. I have a deep curiosity for technology, particularly in machine learning, control systems, and neural networks. My journey involves exploring these fields, innovating new ideas, and sharing my insights with the community.
+## 🔬 Professional Overview
+Innovative Mechanical Engineering undergraduate specializing in computational design, machine learning, and advanced technological solutions. Bridging theoretical engineering with cutting-edge technological applications.
 
+## 🛠 Technical Ecosystem
+
+### Core Competencies
+- **Programming Languages**: Python, MATLAB, C++, Fortran
+- **Machine Learning**: TensorFlow, Neural Networks
+- **Computational Tools**: SolidWorks, ANSYS
+- **Version Control**: Git
+
+### Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,html,css)](https://skillicons.dev)
+
+## 🔍 Research & Focus Areas
+- Machine Learning in Control Systems
+- Computational Fluid Dynamics
+- Neural Network Applications
+- Python-Driven Engineering Solutions
+
+## 🚀 Current Technical Journey
+- 💡 Deep Diving into Machine Learning
+- 🧠 Exploring Neural Network Architectures
+- 🔬 Applying ML to Control Systems Engineering
+
+## 📊 GitHub Performance Metrics
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=00ffff&rank_icon=github&number_format=short" alt="GitHub Stats: Fahad Elahi Khan" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
+<img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Programming Languages" />
+<img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=midnight-purple&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Achievement Trophies" />
+</div>
+
+## 🏆 Professional Achievements
+- MATLAB Onramp Certification
+- Advanced Python Programming
+- Machine Learning Research Initiatives
+
+## 📬 Professional Connectivity
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/fahadelahikhan/)
+- 🖥 [GrabCAD Portfolio](https://grabcad.com/fahad.elahi.khan-1)
+- 📧 Open for collaboration and innovative engineering projects
+
+## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=blueviolet)
 
 ---
 
-## 🚀 About Me
+### 💡 Technological Philosophy
+Transforming complex engineering challenges into innovative solutions through computational intelligence and creative problem-solving.
 
-- 🔭 **Currently focused on**: Python programming, machine learning, and neural networks.
-- 🌱 **Exploring**: The application of machine learning in control systems.
-- 💞️ **Collaborate with me on**: Python-based projects related to control systems.
-- 📫 **Reach me via**: GitHub messages or [LinkedIn](https://www.linkedin.com/in/fahadelahikhan/).
-
----
-
-## 💼 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,html,css)](https://skillicons.dev)
-
----
-
-## 🏆 Achievements
-
-- 🌟 MATLAB Onramp Certification.
-
----
-
-## 🌱 Currently Exploring
-
-- 🚀 **Advancing skills in**: Python, focusing on machine learning and neural networks.
-- 🔍 **Deepening expertise in**: TensorFlow and applying machine learning to control systems.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=00ffff&rank_icon=github&number_format=short" alt="GitHub Stats" />
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-    <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
-    <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=midnight-purple&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</div>
-
----
-
-## 📬 Get in Touch
-
-- Connect on [GRABCAD](https://grabcad.com/fahad.elahi.khan-1)
-- Explore my projects on [GitHub](https://github.com/fahadelahikhan)
-
----
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
-
-<!--   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadelahikhan&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
-  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=fahadelahikhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-   -->
+*Turning lines of code into technological breakthroughs*
