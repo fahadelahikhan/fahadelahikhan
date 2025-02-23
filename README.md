@@ -1,4 +1,4 @@
-# Fahad Elahi Khan | Mechanical Engineering & Computational Innovation 🚀
+# Aspiring Mechanical Engineer | CAD & Ansys Simulation Specialist | Python Developer | Technical Content Creator
 
 ## 🔬 Professional Overview
 Innovative Mechanical Engineering undergraduate specializing in computational design, machine learning, and advanced technological solutions. Bridging theoretical engineering with cutting-edge technological applications.
