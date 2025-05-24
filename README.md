@@ -1,5 +1,5 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Aspiring+Mechanical+Engineer+%7C+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F70000&center=true&width=435&lines=Aspiring+Mechanical+Engineer+%7C+Python+Developer)](https://git.io/typing-svg)
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
