@@ -1,3 +1,6 @@
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F8452C&background=B4B88200&center=true&width=435&lines=Hi!+I+am+Fahad+Elahi+Khan.)](https://git.io/typing-svg)
+
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
 
