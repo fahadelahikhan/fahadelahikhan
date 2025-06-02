@@ -1,5 +1,5 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=F70000&center=false&width=750&height=100&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lora&weight=700&size=30&pause=1000&color=F70000&center=false&width=750&height=100&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
@@ -12,3 +12,9 @@
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=blueviolet)
+
+<!-- <p align="center">
+  <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download_CV-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Download CV"/>
+  </a>
+</p>
