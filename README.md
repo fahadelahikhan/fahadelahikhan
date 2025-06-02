@@ -1,5 +1,5 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F70000&center=false&width=435&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=F70000&center=false&width=750&height=100&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
