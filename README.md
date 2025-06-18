@@ -1,7 +1,11 @@
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/gif_firebr.gif">
-
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=F70000&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/gif_firebr.gif" alt="Firebr GIF">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=F70000&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day." alt="Typing SVG">
+    </a>
+</div>
+
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
