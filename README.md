@@ -1,3 +1,5 @@
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/gif_firebr.gif">
+
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=F70000&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day.)](https://git.io/typing-svg)
 
@@ -25,3 +27,5 @@
     <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d" alt="Download CV" style="border:1.5px solid #d4af37;border-radius:4px;">
   </a>
 </p>
+
+-->
