@@ -13,7 +13,9 @@
 </div>
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=blueviolet)
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/verified.gif" alt="Verified Badge" height="21"> ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=red)
+
+
 
 <!-- <p align="center">
   <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
