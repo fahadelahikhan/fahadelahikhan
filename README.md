@@ -6,6 +6,11 @@
     </a>
 </div>
 
+<div id="profile-views-badge" align="center">
+
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/ARROW.gif" width="31">  [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf) 
+</div>
+
 
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
@@ -13,21 +18,8 @@
 ## Programming Languages
 <div align="left">
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=00ffff&rank_icon=github&number_format=short" alt="GitHub Stats: Fahad Elahi Khan" /> -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Programming Languages" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&theme=apprentice&hide_border=true&layout=compact" alt="Top Programming Languages" />
 </div>
 
 ---
 <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/verified.gif" alt="Verified Badge" height="21"> ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=red)
-
-
-
-<!--
-## Download My CV
-<div id="profile-views-badge" align="center">
-
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/code.gif" width="22"> &nbsp; <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
-    <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d" alt="Download CV" style="border:1.5px solid #d4af37;border-radius:4px;">
-  </a>
-</div>
-
--->
