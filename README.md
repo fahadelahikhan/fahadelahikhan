@@ -21,17 +21,13 @@
 
 
 
-<!-- <p align="center">
-  <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
-    <img src="https://img.shields.io/badge/Download_CV-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Download CV"/>
-  </a>
-</p>
-
+<!--
 ## Download My CV
-<p align="center">
-  <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
+<div id="profile-views-badge" align="center">
+
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/code.gif" width="22"> &nbsp; <a href="https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf" download>
     <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d" alt="Download CV" style="border:1.5px solid #d4af37;border-radius:4px;">
   </a>
-</p>
+</div>
 
 -->
