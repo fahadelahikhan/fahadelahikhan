@@ -8,7 +8,7 @@
 
 <div id="profile-views-badge" align="center">
 
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf) 
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/Arrow_1.gif" width="23"> [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf) <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/1834eacb30e125cfd3e5b101d82ecdc9d347ef55/images/download_cv.svg" width="29">
 </div>
 
 
