@@ -8,7 +8,7 @@
 
 <div id="profile-views-badge" align="center">
 
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/ARROW.gif" width="31">  [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf) 
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/Arrow_1.gif" width="23"> &nbsp; <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/Arrow_1.gif" width="23"> &nbsp; <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/main/images/Arrow_1.gif" width="23"> &nbsp; [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://raw.githubusercontent.com/fahadelahikhan/fahadelahikhan/main/Fahad_CV.pdf) 
 </div>
 
 
