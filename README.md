@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/16adf8e2f0e0cc629e1ad6dd9e26ccb31c01cec5/images/gif_firebr.gif" alt="Firebr GIF">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=F70000&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=FF4C0F&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day!" alt="Typing SVG">
     </a>
 </div>
 
