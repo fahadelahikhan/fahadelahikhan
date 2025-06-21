@@ -13,7 +13,7 @@
 
 
 ## Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css,django,flask,bash)](https://skillicons.dev)
 
 ## Programming Languages
 <div align="center">
