@@ -16,9 +16,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,latex,c,cpp,fortran,git,notion,html,css)](https://skillicons.dev)
 
 ## Programming Languages
-<div align="left">
+<div align="center">
+    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/8c6e8304b6843e6ba34675c783d61d7a6b992a32/images/YesNodCuteAnimeGirl.gif">
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=00ffff&rank_icon=github&number_format=short" alt="GitHub Stats: Fahad Elahi Khan" /> -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&&langs_count=10&theme=apprentice&hide_border=true&layout=compact" alt="Top Programming Languages" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&&langs_count=10&theme=apprentice&hide_border=true&layout=compact" alt="Top Programming Languages" /> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/8c6e8304b6843e6ba34675c783d61d7a6b992a32/images/YesNodCuteAnimeGirl.gif">
 </div>
 
 ---
