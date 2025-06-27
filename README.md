@@ -11,7 +11,6 @@
 <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://github.com/fahadelahikhan/fahadelahikhan/blob/f11eb0ce60a3fdbba906691b0ce96fb057ed085b/docs/CV%20coming%20soon.pdf) <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/1834eacb30e125cfd3e5b101d82ecdc9d347ef55/images/download_cv.svg" width="29">
 </div>
 
-
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,html,css,django,flask,latex,c,cpp,fortran,git,notion,bash,md)](https://skillicons.dev)
 
@@ -23,7 +22,12 @@
 </div>
 
 ---
+    
 <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/verified.gif" alt="Verified Badge" height="21"> ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=red)
+
+<br>
+
+© 2025 Fahad Elahi Khan · Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <!--
 &nbsp; this is used for horizontal spacing
