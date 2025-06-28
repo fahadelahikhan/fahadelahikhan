@@ -27,8 +27,18 @@
 
 <br>
 
+
 © 2025 Fahad Elahi Khan · Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <!--
 &nbsp; this is used for horizontal spacing
+
+
+Core Languages
+
+![Python](https://img.shields.io/badge/Python-Developer-3776AB?logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-Professional-008080?logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Numerical%20Methods-00599C?logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-Scientific%20Computing-734F96?logo=fortran&logoColor=white)
+
 -->
