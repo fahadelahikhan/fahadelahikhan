@@ -23,7 +23,7 @@
 
 ---
     
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/verified.gif" alt="Verified Badge" height="21"> ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=red)
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/bc97bffed98efbca6890fe1dbcb69d1f6acf3d2e/assets/Verified_RedBlack.gif" alt="Verified Badge" height="21"> ![Visitor Count](https://komarev.com/ghpvc/?username=fahadelahikhan&style=plastic&label=Profile+Views&abbreviated=true&color=red)
 
 <br>
 
