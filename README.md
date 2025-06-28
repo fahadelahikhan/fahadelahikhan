@@ -8,7 +8,7 @@
 
 <div id="profile-views-badge" align="center">
 
-<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/Arrow_1.gif" width="23"> [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://github.com/fahadelahikhan/fahadelahikhan/blob/f11eb0ce60a3fdbba906691b0ce96fb057ed085b/docs/CV%20coming%20soon.pdf) <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/1834eacb30e125cfd3e5b101d82ecdc9d347ef55/images/download_cv.svg" width="29">
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/545241357dcdd3f7a231d92aae7c69e989949226/assets/Arrow_3.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/545241357dcdd3f7a231d92aae7c69e989949226/assets/Arrow_3.gif" width="23"> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/545241357dcdd3f7a231d92aae7c69e989949226/assets/Arrow_3.gif" width="23"> [![Download CV](https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=#d4af37&labelColor=0d0d0d)](https://github.com/fahadelahikhan/fahadelahikhan/blob/f11eb0ce60a3fdbba906691b0ce96fb057ed085b/docs/CV%20coming%20soon.pdf) <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/545241357dcdd3f7a231d92aae7c69e989949226/assets/premium.gif" width="27">
 </div>
 
 ## Technology Stack
