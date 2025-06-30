@@ -1,3 +1,8 @@
+<a href="https://fahadelahikhan.github.io/Fahad-Elahi-Khan---Personal-Portfolio/">
+  <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/7e5c748f3ebaf569fa50cbf3eaba2c4ab9339f7b/assets/python_developer.JPG" alt="My GitHub Profile Banner" width="100%">
+</a>
+
+
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/symbols.gif" alt="Symbols">
