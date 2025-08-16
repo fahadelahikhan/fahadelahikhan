@@ -5,7 +5,7 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/symbols.gif" alt="Symbols">
+    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/a06ee3496124110153ff9d75259cebbaddedd980/assets/hey_google.gif" alt="Symbols" width="80">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=FF4C0F&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Aspiring+Mechanical+Engineer+%7C+Python+Developer;Thanks+for+visiting.+Have+a+good+day!" alt="Typing SVG">
     </a>
