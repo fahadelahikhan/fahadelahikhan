@@ -5,9 +5,9 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <div align="center">
-    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/a06ee3496124110153ff9d75259cebbaddedd980/assets/hey_google.gif" alt="Hey Google!" width="80"> &nbsp; &nbsp;
+    <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/a06ee3496124110153ff9d75259cebbaddedd980/assets/hey_google.gif" alt="Hey Google!" width="75"> &nbsp; &nbsp;
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=23&pause=1000&color=FF4C0F&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Mechanical+Engineering+Undergraduate+%7C+Python+Developer;Certified+SolidWorks+Associate+%7C+Technical+Content+Creator;Thanks+for+visiting.+Have+a+good+day!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=lora&weight=650&size=20&pause=1000&color=FF4C0F&center=false&width=650&height=70&lines=Hi!+I+am+Fahad+Elahi+Khan.;Mechanical+Engineering+Undergraduate+%7C+Python+Developer;Certified+SolidWorks+Associate+%7C+Technical+Content+Creator;Thanks+for+visiting.+Have+a+good+day!" alt="Typing SVG">
     </a>
 </div>
 
