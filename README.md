@@ -19,12 +19,20 @@
 ## Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,html,css,django,flask,latex,c,cpp,fortran,git,notion,bash,md)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahadelahikhan&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahadelahikhan&theme=github_dark" />
+</div>
+
 ## Programming Languages
 <div align="center">
     <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/gif_firebr.gif">
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fahadelahikhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&ring_color=00ffff&rank_icon=github&number_format=short" alt="GitHub Stats: Fahad Elahi Khan" /> -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&&langs_count=10&theme=apprentice&hide_border=true&layout=compact" alt="Top Programming Languages" /> <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/gif_firebr.gif">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahadelahikhan&theme=github_dark" />
+<img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/d2cb170ac4d13f8ef2084af7489ca20c2b852979/assets/gif_firebr.gif">
 </div>
+
+
 
 ---
     
@@ -37,6 +45,8 @@
 
 <!--
 &nbsp; this is used for horizontal spacing
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadelahikhan&&langs_count=10&theme=apprentice&hide_border=true&layout=compact" alt="Top Programming Languages" /> 
 
 
 Core Languages
