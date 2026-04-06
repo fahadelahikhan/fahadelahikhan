@@ -1,5 +1,5 @@
 <a href="https://fahadelahikhan.github.io/Fahad-Elahi-Khan---Personal-Portfolio/">
-  <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/8720effa7e1ff093a1a3ef7958c9e3e6d0e10678/assets/Fahad%20Elahi%20Khan.gif" alt="My GitHub Profile Banner" width="100%">
+  <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/98642bf8576ecd72c6db8c040e6ee9d5b35b1a2f/assets/AI%20Engineer%20for%20Data%20Scientists%20Associate%20-%20LinkedIn.png" alt="My GitHub Profile Banner" width="100%">
 </a>
 <hr>
 
