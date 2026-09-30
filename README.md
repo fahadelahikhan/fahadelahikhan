@@ -17,7 +17,7 @@
 </div>
 
 ## Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,matlab,html,css,django,flask,latex,c,cpp,fortran,git,notion,bash,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,matlab,html,css,django,flask,latex,c,cpp,fortran,git,notion,bash,md)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahadelahikhan&theme=github_dark" />
