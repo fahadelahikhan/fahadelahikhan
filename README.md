@@ -1,4 +1,4 @@
-<a href="https://fahadelahikhan.github.io/Fahad-Elahi-Khan---Personal-Portfolio/">
+<a href="https://fahadelahikhan.me/">
   <img src="https://github.com/fahadelahikhan/fahadelahikhan/blob/98642bf8576ecd72c6db8c040e6ee9d5b35b1a2f/assets/AI%20Engineer%20for%20Data%20Scientists%20Associate%20-%20LinkedIn.png" alt="My GitHub Profile Banner" width="100%">
 </a>
 <hr>
